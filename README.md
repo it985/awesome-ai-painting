@@ -12,6 +12,14 @@ ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手�
 
 [ChatTTS](https://www.chattts.co/)
 
+## Flux.1 
+
+在人工智能驱动的创意领域中，一颗新星冉冉升起：Flux.1 AI图像生成器。由Black Forest Labs开发的Flux.1正在彻底改变我们思考和创造视觉内容的方式。这款尖端的文本到图像合成模型正在图像生成领域树立新的标杆，提供无与伦比的质量、速度和多样性。
+
+Flux.1不仅仅是另一个AI图像生成器；它是一个游戏规则改变者，正在挑战Midjourney和DALL·E等老牌玩家。凭借其从文本描述创建令人惊叹的高分辨率图像的能力，Flux.1正为全球艺术家、设计师和内容创作者开启新的可能性。
+
+[免费使用Flux.1](https://www.goenhance.ai/tools/flux1-ai-image-generator)
+
 ## stable-cascade
 
 ### 使用教程
